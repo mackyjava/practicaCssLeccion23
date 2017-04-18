@@ -1,0 +1,20 @@
+section {
+	display: grid;
+}
+
+.yellow {
+	display: block;
+	background: yellow;
+	width: 350px;
+	height: 100px;
+	margin-top: 0;
+	
+}
+.pink {
+	display:block;
+	background:violet;
+	width: 350px;
+	height: 100px;
+	margin:0px,0px;
+	
+}
