@@ -5,16 +5,29 @@ section {
 .yellow {
 	display: block;
 	background: yellow;
-	width: 350px;
-	height: 100px;
+	width: 550px;
+	height: 75px;
 	margin-top: 0;
 	
 }
 .pink {
 	display:block;
-	background:violet;
-	width: 350px;
-	height: 100px;
-	margin:0px,0px;
+	background:#F31E52;
+	border: 1px solid black;
+	width: 550px;
+	height: 75px;
 	
+	
+}
+.yellow>h4 {
+	float:left;
+	margin-top: 0;
+	font-weight: 100;
+	font-size: 22px;
+}
+
+.diferente {
+  font-size: 26px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
