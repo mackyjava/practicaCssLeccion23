@@ -1,0 +1,31 @@
+
+
+.yellow {
+	display: block;
+	background: yellow;
+	width: 250px;
+	height: 75px;
+	
+	
+}
+.pink {
+	display:block;
+	background:#F31E52;
+	width: 250px;
+	height: 75px;
+	margin-bottom:20px;
+	
+	
+}
+.yellow>h4 {
+	float:left;
+	margin-top: 0;
+	font-weight: 100;
+	font-size: 22px;
+}
+
+.diferente {
+  font-size: 26px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
